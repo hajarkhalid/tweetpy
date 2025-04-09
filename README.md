@@ -19,7 +19,9 @@ To get started with TweetPy, follow the steps below to install the required pack
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/hajarkhalid/tweetpy.git
+git clone https://github.com/hajarkhalid/your-repository-name.git
+
+
 cd tweetpy
 ---
 Install Dependencies
