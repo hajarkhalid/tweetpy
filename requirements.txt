@@ -1,0 +1,6 @@
+fastapi
+python-dotenv
+redis
+rq
+python-twitter
+uvicorn
