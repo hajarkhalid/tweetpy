@@ -17,16 +17,14 @@ TweetPy is a Python-based project that allows easy integration with the Twitter 
 To get started with TweetPy, follow the steps below to install the required packages and clone the repository.
 
 ### Clone the Repository
-
 ```bash
 git clone https://github.com/hajarkhalid/your-repository-name.git
 
-
 cd tweetpy
----
+---------------------------
 Install Dependencies
 Install the required Python packages (e.g., tweepy or others specified in requirements.txt):
-bash
+```bash
 
 
 pip install -r requirements.txt
