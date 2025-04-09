@@ -23,6 +23,7 @@ git clone https://github.com/hajarkhalid/tweetpy.git
 cd tweetpy
 
 
----
+--
 
+![Description of Image](https://github.com/hajarkhalid/your-repository-name/blob/main/path-to-your-image/267c0dda-e088-4bf7-bdd6-7bcbac7204df.png)
 
